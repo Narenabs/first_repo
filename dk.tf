@@ -4,7 +4,7 @@ provider "aws" {
   secret_key = "bxZXLKANeTdD7QwhcZLVoqJ1I+89WqmzE3sMJqHm"
 }
 
-NAREN DASH
+ayub dash
 
 
 resource "aws_instance" "web" {
