@@ -4,6 +4,8 @@ provider "aws" {
   secret_key = "bxZXLKANeTdD7QwhcZLVoqJ1I+89WqmzE3sMJqHm"
 }
 
+NAREN DASH
+
 
 resource "aws_instance" "web" {
   ami           = "ami-0b0dcb5067f052a63"
