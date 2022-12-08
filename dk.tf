@@ -4,7 +4,7 @@ provider "aws" {
   secret_key = "bxZXLKANeTdD7QwhcZLVoqJ1I+89WqmzE3sMJqHm"
 }
 
-chidambaram
+chidambaram area
 
 
 resource "aws_instance" "web" {
